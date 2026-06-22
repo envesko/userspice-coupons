@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Coupons</name>
+  <author>Envesko</author>
+  <website>https://github.com/envesko/userspice-coupons</website>
+  <version>1.1.1</version>
+  <release>June 22, 2026</release>
+  <tested>6.1.0</tested>
+  <fa_icon>fa fa-ticket</fa_icon>
+  <description>This plugin allows you to create coupons that have limited (or unlimited) uses and permission rewards for UserSpice 5.3+</description>
+  <button>Coupons</button>
+</plugin>
